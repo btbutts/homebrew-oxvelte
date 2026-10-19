@@ -2,7 +2,7 @@
 A homebrew formula of a Svelte linter/parser written in Rust. Drop-in replacement for eslint-plugin-svelte. Same rules, same diagnostics, 4-25x faster.
 
 <p align="center">
-  <img src="assets/oxvelte.svg" alt="oxvelte logo" width="200">
+  <img src="https://raw.githubusercontent.com/tolgaouz/oxvelte/main/assets/oxvelte.svg" alt="oxvelte logo" width="200">
 </p>
 
 # oxvelte
