@@ -1,8 +1,8 @@
 class Oxvelte < Formula
   desc "ESLint-compatible Svelte linter written in Rust. Same rules/diags, 4-25x faster"
-  homepage "https://github.com/btbutts/oxvelte-tap"
-  url "https://github.com/btbutts/oxvelte-tap/releases/download/v0.2.0/oxvelte-0.2.0.tar.gz"
-  sha256 "58d079bdb22dbc700b2a4e88bf1dd17d94e5e51136e197c55fb76abb2407395f"
+  homepage "https://github.com/btbutts/oxvelte-rs"
+  url "https://github.com/btbutts/oxvelte-rs/releases/download/v0.4.0/oxvelte-0.4.0.tar.gz"
+  sha256 "e1b9f0ec48f2a856099db84ee10d5b67bd3fc4264c89fb2921c2c6847a821631"
   license "MIT"
 
   livecheck do
