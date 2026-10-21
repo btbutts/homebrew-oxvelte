@@ -19,7 +19,7 @@ class Oxvelte < Formula
   def install
     # Remove unrecognized options if they cause configure to fail
     # https://docs.brew.sh/rubydoc/Formula.html#std_configure_args-instance_method
-    system "cargo", "install", *std_cargo_args
+    system "cargo", "install", *std_cargo_args, "--verbose"
   end
 
   test do
